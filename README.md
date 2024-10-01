@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ilfagaro.
+- 👀 I’m interested in Frontend programming.
+- 🌱 I’m currently learning Java and still learning Frontend.
+- 💞️ I’m looking to collaborate on Frontend or backend projects.
+- 📫 How to reach me gaonailda111320@gmail.com or http://www.linkedin.com/in/ilda-fabiana-gaona-rotela
+- 😄 Pronouns:She
+- ⚡ Fun fact, i am funny.
